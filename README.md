@@ -9,4 +9,6 @@ active response script
 
 
 chown root:wazuh yara.sh 
+
+
 chmod 750 yara.sh 
