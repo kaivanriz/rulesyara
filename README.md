@@ -6,3 +6,7 @@ rules location
 active response script
 
 /var/ossec/active-response/bin/yara.sh
+
+
+chown root:wazuh yara.sh 
+chmod 750 yara.sh 
